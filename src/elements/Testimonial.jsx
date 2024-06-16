@@ -6,40 +6,40 @@ import testimonialImg8 from "../assets/images/client/testimonial-8.jpg";
 
 const testimonials = [
   {
-    name: "Aklima",
-    title: "COO, AMERIMAR ENTERPRISES, INC.",
+    name: "DAVID LEE",
+    title: "PROJECT MANAGER, TECH INNOVATIONS, INC",
     content:
-      "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
+      "I had the pleasure of working with Mohamed Faiz on our project, His skill in both front-end and back-end development made our application seamless and user-friendly.",
     image:
       "https://images.squarespace-cdn.com/content/v1/5eb48d3fef49df153d320521/764b8e44-aa9d-4985-baff-a67167a804ad/SamuraiToyFace.jpg?format=1000w",
   },
   {
-    name: "Fatima Asrafy",
-    title: "COO, AMERIMAR ENTERPRISES, INC.",
+    name: "EMILY JOHNSON",
+    title: "CEO, STARTAPP SOLUTIONS, INC.",
     content:
-      "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
+      "Working with Mr. Faiz on our mobile app was a game-changer. His expertise in both iOS and Android ensured our app was not only visually appealing but also highly functional. Mohamed’s dedication and creativity stood out throughout the project. I look forward to working with him again on future projects.",
     image: testimonialImg2,
   },
   // ... add other testimonial objects here
   {
-    name: "JON CUMMINS",
-    title: "COO, AMERIMAR ENTERPRISES, INC.",
+    name: "MICHEAL BROWN",
+    title: "MARKETING DIRECTOR, CREATIVE WEB AGENCY, INC.",
     content:
-      "Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
+      "Working with Mohamed Faiz on our backend development was a remarkable experience. His deep understanding of server-side technologies and databases ensured our system was robust and secure.",
     image: testimonialImg8,
   },
   {
-    name: "JON CUMMINS",
-    title: "COO, AMERIMAR ENTERPRISES, INC.",
+    name: "KAREN MITCHELL",
+    title: "MARKETING DIRECTOR, VISIONARY WEB SOLUTIONS, INC.",
     content:
-      "Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
+      "Mohamed is a top-notch web developer whose skills and professionalism have greatly contributed to our project’s success. He transformed our ideas into a functional, beautiful website that has significantly improved our online presence.",
     image: testimonialImg8,
   },
   {
-    name: "JON CUMMINS",
-    title: "COO, AMERIMAR ENTERPRISES, INC.",
+    name: "DANIEL CARTER",
+    title: "ENGINEERING MANAGER, TECHSAVVY SOLUTIONS, INC.",
     content:
-      "Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
+      "Mohamed Faiz has proven to be an outstanding backend developer with exceptional technical skills and a strong work ethic. His ability to design and implement robust backend systems has greatly enhanced the functionality and performance of our applications.",
     image: testimonialImg8,
   },
 ];

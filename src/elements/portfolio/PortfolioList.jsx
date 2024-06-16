@@ -5,28 +5,29 @@ const PortfolioListContent = [
   {
     image: "image-1",
     category: "MESSAGING & SOCIAL",
-    title: "Mello Chat: Messaging App For New Generation.",
+    title: "MELLO CHAT: Messaging App For New Generation.",
   },
   {
     image: "image-2",
-    category: "Development",
-    title: "Getting tickets to the big show",
+    category: "SAFE & LOCATION",
+    title: "GUARDMe: Realtime Location Sharing",
   },
   {
     image: "image-3",
-    category: "Development",
-    title: "Getting tickets to the big show",
+    category: "BROADCASTER & VIDEO CONNECT",
+    title: "1'ONE: 1'ONE AI based Video Streaming Service",
   },
   {
     image: "image-4",
-    category: "Development",
-    title: "Getting tickets to the big show",
+    category: "MANAGEMENT SOFTWARE",
+    title: "SALES FLEX: CRM for Business Management",
   },
   {
     image: "image-3",
-    category: "Development",
-    title: "Getting tickets to the big show",
+    category: "MANAGEMENT SYSTEM(HMS)",
+    title: "HRAB REGISTIRY: HMS for Hospital Management",
   },
+  // ADD GAME HERE
   {
     image: "image-4",
     category: "Development",
